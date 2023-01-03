@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /guestbook/
+Allow: /img_page/
+Allow: /share/
+Allow: /tags/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+Sitemap: https://blog2.mo7.cc/sitemap.xml
+Sitemap: https://blog2.mo7.cc/baidusitemap.xml
