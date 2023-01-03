@@ -8,8 +8,5 @@ path=$(pwd)
 # 最终的输出目录
 outPutPath=${path}"/dist"
 
-# 部署脚本
-deployShell=${path}"/_shell/sftp.mjs"
-
 # 部署目录
 deployPath="/root/ProdProject/blog2.mo7.cc"

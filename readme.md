@@ -2,6 +2,16 @@
 
 hexo 打造的个人博客，现已切换至 vuepress ， 该项目吃灰。
 
+```bash
+npm install
+npm run dev
+
+npm run build
+
+
+
+```
+
 ## 主题文档
 
 https://butterfly.js.org/
